@@ -11,7 +11,7 @@ end
 
 
 def long_planeteer_calls(words)
-  words.
+  words.any? do |words|  
 end
 
 def find_the_cheese# code an argument here
